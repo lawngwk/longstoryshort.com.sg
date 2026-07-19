@@ -181,7 +181,7 @@ canvas {
 }
 
 .block-text p {
-    font-size: 1.1rem;
+    font-size: 1.225rem;
     margin-bottom: 20px;
     line-height: 1.6;
 }
@@ -192,7 +192,7 @@ canvas {
 }
 
 .block-text ul li {
-    font-size: 1.1rem;
+    font-size: 1.225rem;
     margin-bottom: 10px;
     line-height: 1.6;
 }
