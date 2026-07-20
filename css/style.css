@@ -296,7 +296,7 @@ canvas {
 }
 
 .site-footer p {
-    font-size: 0.9rem;
+    font-size: 1.2rem;
 }
 
 .site-footer a {
@@ -341,6 +341,7 @@ canvas {
     .chat-btn { font-size: 1.2rem; padding: 10px 30px; }
     .block-text p, .block-text ul li { font-size: 1.2rem; }
     .portfolio-overlay h3 { font-size: 1.4rem; }
+    .site-footer p { font-size: 0.9rem; }
 }
 
 /* Video Modal */
