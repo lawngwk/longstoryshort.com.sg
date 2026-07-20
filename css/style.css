@@ -332,7 +332,7 @@ canvas {
     }
     .social-divider { width: 80%; }
     .footer-content {
-        flex-direction: column;
+        flex-direction: column-reverse;
         gap: 10px;
         text-align: center;
     }
@@ -341,7 +341,7 @@ canvas {
     .chat-btn { font-size: 1.2rem; padding: 10px 30px; }
     .block-text p, .block-text ul li { font-size: 1.2rem; }
     .portfolio-overlay h3 { font-size: 1.4rem; }
-    .site-footer p { font-size: 1.2rem; }
+    .site-footer p { font-size: 1rem; white-space: nowrap; }
 }
 
 /* Video Modal */
