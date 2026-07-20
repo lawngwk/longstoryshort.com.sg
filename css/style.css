@@ -112,7 +112,7 @@ canvas {
 }
 
 .quote-overlay p {
-    font-size: 2.2rem;
+    font-size: 1.8rem;
     color: var(--text-light);
     margin-bottom: 10px;
     font-weight: 400;
@@ -124,7 +124,7 @@ canvas {
     border: none;
     padding: 12px 40px;
     font-family: var(--font-main);
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     font-weight: 400;
     cursor: pointer;
     transition: opacity 0.3s;
